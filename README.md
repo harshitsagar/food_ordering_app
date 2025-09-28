@@ -32,7 +32,8 @@ https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulato
    
 ## Run Tests
 To run the unit tests for the application, use the following command:
-flutter test
+    ```bash
+    flutter test
 
 ## Features :
 -> Restaurant listing with details
