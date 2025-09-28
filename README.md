@@ -19,7 +19,7 @@ https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulato
 ### Steps to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/food_ordering_app.git
+   git clone https://github.com/harshitsagar/food_ordering_app.git
    cd food_ordering_app
    
 2. **Install dependencies**
