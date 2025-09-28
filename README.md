@@ -1,16 +1,49 @@
-# food_ordering_app
+# Food Ordering App
 
-A new Flutter project.
+A Flutter food delivery application built with **Bloc architecture** and following **SOLID principles**.
 
-## Getting Started
+## 📱 App Screenshots
 
-This project is a starting point for a Flutter application.
+https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202025-09-29%20at%2002.23.18.png
+https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202025-09-29%20at%2002.24.04.png
+https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202025-09-29%20at%2002.24.32.png
+https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202025-09-29%20at%2002.25.07.png
+https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202025-09-29%20at%2002.25.17.png
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK (>=3.0.0)
+- Dart (>=3.0.0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps to Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/food_ordering_app.git
+   cd food_ordering_app
+   
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+
+3. **Run the app**
+   ```bash
+    flutter run
+   
+## Run Tests
+To run the unit tests for the application, use the following command:
+```bash
+    flutter test
+
+📋 Features :
+-> Restaurant listing with details
+-> Menu browsing for each restaurant
+-> Add items to cart with quantity management
+-> Order placement with confirmation
+-> Error handling throughout workflow
+-> Clean Bloc architecture
+-> Unit Tests for all Bloc components
+
+Note: The app uses mock data and doesn't require API integration or login.
+
+
