@@ -31,19 +31,8 @@ https://github.com/harshitsagar/food_ordering_app/blob/main/screenshots/Simulato
     flutter run
    
 ## Run Tests
-To run the unit tests for the application, use the following command:
-    ```bash
-    flutter test
-
-## Features :
--> Restaurant listing with details
--> Menu browsing for each restaurant
--> Add items to cart with quantity management
--> Order placement with confirmation
--> Error handling throughout workflow
--> Clean Bloc architecture
--> Unit Tests for all Bloc components
-
-Note: The app uses mock data and doesn't require API integration or login.
+** To run the unit tests for the application, use the following command:
+```bash
+flutter test
 
 
